@@ -1,9 +1,9 @@
 # 使用Python和百度语音开发的语音合成和语音识别
 
-# 调用了Python的AipSpeech,os,requests,pyaudio,wave,time,threading 模块
+## 调用了Python的AipSpeech,os,requests,pyaudio,wave,time,threading 模块
 
 *使用方法:*   
-'''  
+'''
 git clone https://github.com/Miskies/speech.git   
 cd speech  
 python3 speech  
