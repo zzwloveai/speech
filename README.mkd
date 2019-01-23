@@ -3,10 +3,10 @@
 # 调用了Python的AipSpeech,os,requests,pyaudio,wave,time,threading 模块
 
 *使用方法:*   
-'''
+'''  
 git clone https://github.com/Miskies/speech.git   
 cd speech  
 python3 speech  
-''' 
+'''   
 
 按要求输入值,文本位置和文本名字为分开
